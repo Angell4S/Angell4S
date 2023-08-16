@@ -10,6 +10,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angell4S&&include_all_commits=true&theme=tokyonight&show_icons=true&count_private=true&hide=contribs,prs)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=angell4s&hide_progress=true&langs_count=8&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="angell4s" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Angell4S&hide_progress=true&langs_count=8&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="angell4s" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=4ngell4S&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Angell4S&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
