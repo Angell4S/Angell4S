@@ -11,7 +11,7 @@
 
 <!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angell4S\&rank_icon=github&theme=transparent) -->
 
-## Contribuciones
+## Contribuciones:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Angell4S&theme=transparent&hide_border=true&locale=es)](https://git.io/streak-stats)
 
