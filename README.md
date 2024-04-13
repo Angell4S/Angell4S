@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Angel</h1>
-<h3 align="center">Passionate about development</h3>
+<h1 align="center">Hola 👋, Soy Angel</h1>
+<h3 align="center">Apasionado por el desarrollo</h3>
 
 ## ✌️ Contacto: 
 #### am.angell98@gmail.com
